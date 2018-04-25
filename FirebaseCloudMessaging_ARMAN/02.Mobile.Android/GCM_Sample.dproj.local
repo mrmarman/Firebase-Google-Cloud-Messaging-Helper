@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.466,=C:\.ARMAN.Study\.Programming\GoogleCloudMessaging.Helper\AndroidManifest.template.xml</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.424,C:\.ARMAN.Study\.Programming\GoogleCloudMessaging.Helper\Units\Unit1.fmx=C:\.ARMAN.Study\.Belgelerim\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.756,=C:\.ARMAN.Study\.Programming\GoogleCloudMessaging.Helper\Units\GoogleCloudMessaging_Helper.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.144,C:\.ARMAN.Study\.Programming\GoogleCloudMessaging.Helper\GCM_Sample.dproj=C:\.ARMAN.Study\.Belgelerim\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.732,=C:\.ARMAN.Study\.Belgelerim\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.424,C:\.ARMAN.Study\.Programming\GoogleCloudMessaging.Helper\Units\Unit1.pas=C:\.ARMAN.Study\.Belgelerim\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="4100589ee42aa107"/>
+	</ActiveMobileDevice>
+</BorlandProject>

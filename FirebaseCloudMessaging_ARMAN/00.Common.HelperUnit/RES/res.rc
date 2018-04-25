@@ -1,0 +1,4 @@
+ ssl_01 RCDATA "ssleay32.dll"
+ ssl_02 RCDATA "libeay32.dll"
+ ssl_03 RCDATA "ssleay32.dll.tokyo"
+ ssl_04 RCDATA "libeay32.dll.tokyo"

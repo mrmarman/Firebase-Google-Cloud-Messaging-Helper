@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.976,C:\.ARMAN.Study\.Belgelerim\Embarcadero\Studio\Projects\Project1.dproj=C:\.ARMAN.Study\.Programming\GoogleCloudMessaging.Helper\Desktop.Win32\Desktop_MessagePush.Win32.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.654,=C:\.ARMAN.Study\.Programming\GoogleCloudMessaging.Helper\Units\GoogleCloudMessaging_Helper.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.475,C:\.ARMAN.Study\.Belgelerim\Embarcadero\Studio\Projects\Unit1.dfm=C:\.ARMAN.Study\.Programming\GoogleCloudMessaging.Helper\Desktop.Win32\Units\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.475,C:\.ARMAN.Study\.Belgelerim\Embarcadero\Studio\Projects\Unit1.pas=C:\.ARMAN.Study\.Programming\GoogleCloudMessaging.Helper\Desktop.Win32\Units\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.688,=C:\.ARMAN.Study\.Belgelerim\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

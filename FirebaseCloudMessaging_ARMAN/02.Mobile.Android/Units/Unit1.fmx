@@ -1,0 +1,99 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 442
+  ClientWidth = 343
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnActivate = FormActivate
+  OnCreate = FormCreate
+  DesignerMasterStyle = 3
+  object Memo1: TMemo
+    Touch.InteractiveGestures = [Pan, LongTap, DoubleTap]
+    DataDetectorTypes = []
+    StyledSettings = [Style, FontColor]
+    TextSettings.Font.Family = 'Courier New'
+    TextSettings.Font.Size = 10.000000000000000000
+    Align = Client
+    Size.Width = 343.000000000000000000
+    Size.Height = 392.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Viewport.Width = 335.000000000000000000
+    Viewport.Height = 384.000000000000000000
+  end
+  object Panel1: TPanel
+    Align = Bottom
+    Position.Y = 392.000000000000000000
+    Size.Width = 343.000000000000000000
+    Size.Height = 50.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 3
+    object Button1: TButton
+      Anchors = [akLeft, akBottom]
+      StyledSettings = [Family, Style, FontColor]
+      Position.X = 6.000000000000000000
+      Position.Y = 8.000000000000000000
+      Size.Width = 75.000000000000000000
+      Size.Height = 34.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 2
+      Text = 'G'#246'nder'
+      TextSettings.Font.Size = 11.000000000000000000
+      OnClick = Button1Click
+    end
+    object Edit1: TEdit
+      Touch.InteractiveGestures = [LongTap, DoubleTap]
+      Anchors = [akLeft, akRight, akBottom]
+      TabOrder = 3
+      Position.X = 87.000000000000000000
+      Position.Y = 9.000000000000000000
+      Size.Width = 239.000000000000000000
+      Size.Height = 32.000000000000000000
+      Size.PlatformDefault = False
+    end
+    object CheckBox1: TCheckBox
+      Anchors = [akTop, akRight]
+      StyledSettings = [Family, Style, FontColor]
+      IsChecked = True
+      Position.X = 245.000000000000000000
+      Position.Y = 16.000000000000000000
+      Size.Width = 97.000000000000000000
+      Size.Height = 19.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 5
+      Text = '3 sn gecikmeli'
+      TextSettings.Font.Size = 10.000000000000000000
+    end
+  end
+  object Timer1: TTimer
+    OnTimer = Timer1Timer
+    Left = 24
+    Top = 248
+  end
+  object Button3: TButton
+    StyledSettings = [Family, Style, FontColor]
+    Position.X = 265.000000000000000000
+    Position.Y = 296.000000000000000000
+    TabOrder = 7
+    Text = 'Notifications'
+    TextSettings.Font.Size = 10.000000000000000000
+  end
+  object Edit2: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    Anchors = [akRight, akBottom]
+    TabOrder = 8
+    Position.X = 148.000000000000000000
+    Position.Y = 348.000000000000000000
+  end
+  object Button4: TButton
+    StyledSettings = [Family, Style, FontColor]
+    Position.X = 265.000000000000000000
+    Position.Y = 342.000000000000000000
+    TabOrder = 6
+    Text = 'Local Not'
+    TextSettings.Font.Size = 10.000000000000000000
+  end
+end
